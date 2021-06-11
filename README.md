@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AmarMujak
 - 👀 I’m interested in coding/programming! Especially with Python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python programming basics, and also Computer Science as a whole
 - 📫 How to reach me; email: mujakamar5@gmail.com
 
 <!---
